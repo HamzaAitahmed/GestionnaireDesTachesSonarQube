@@ -13,7 +13,6 @@ import java.util.*;
 @Controller
 public class ProjectController {
 
-
     private final ProjectRepository projectRepository;
     private final TeamRepository teamRepository;
 
